@@ -20,6 +20,9 @@ int main(){
 	if(resul<25){
 		printf("Usted tiene un peso normal\n");
 	}
+	else{
+		printf("Usted tiene SOBREPESO");
+	}
 	return 0;
 	
 }
